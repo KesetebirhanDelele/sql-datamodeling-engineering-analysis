@@ -9,7 +9,7 @@ This project is divided into three parts: data modeling, data engineering, and d
 Conduct a research project about people whom the company employed during the 1980s and 1990s using six CSV files.
 ### Data Modeling
 Entity Relationship Diagram of the tables sketched using QuickDBD.
-![QuickDBD-Employees](https://user-images.githubusercontent.com/109861849/205740830-0e82ce6d-93cb-450b-9c50-d65a281ecd60.png)
+![QuickDBD-Employees](https://user-images.githubusercontent.com/109861849/205788540-94c71c66-b73d-4ca1-a26d-fb1ffbdbd7b7.png)
 
 ### Data Engineering
 1.	ER diagram used to create table schema in Postgresql for each of the six CSV files. Care was taken to:
